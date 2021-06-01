@@ -15,7 +15,7 @@ window._genesys = {
           interactionData: {
             routing: {
               targetType: 'QUEUE',
-              targetAddress: 'GiordanoQueue',
+              targetAddress: 'Giordano_Assignment2',
               priority: 2
             }
           }
