@@ -15,7 +15,7 @@ window._genesys = {
           interactionData: {
             routing: {
               targetType: 'QUEUE',
-              targetAddress: 'Montilla_Inbound_Flow',
+              targetAddress: 'Montilla_Queue',
               priority: 2
             }
           }
