@@ -10,12 +10,12 @@ window._genesys = {
         transport: {
           type: 'purecloud-v2-sockets',
           dataURL: 'https://api.usw2.pure.cloud',     // replace with API URL matching your region
-          deploymentKey : 'ec2458b4-bb3b-4ae9-b27f-fe3b9885890c',  // replace with your Deployment ID
+          deploymentKey : 'c915514a-c598-4653-b1be-6f2a186cd10a',  // replace with your Deployment ID
           orgGuid : '56ee736b-1261-4cd2-83d7-42b362223318',              // replace with your Organization ID
           interactionData: {
             routing: {
               targetType: 'QUEUE',
-              targetAddress: 'BullockQueue',
+              targetAddress: 'LeonardQueue',
               priority: 2
             }
           }
